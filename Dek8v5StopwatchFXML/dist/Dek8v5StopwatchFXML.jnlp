@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Dek8v5StopwatchFXML.jnlp">
+  <information>
+    <title>Dek8v5StopwatchFXML</title>
+    <vendor>DewiEndah</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Dek8v5StopwatchFXML.jar" size="18972" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Dek8v5StopwatchFXML" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="dek8v5stopwatchfxml.Dek8v5StopwatchFXML"  name="Dek8v5StopwatchFXML" />
+  <update check="always"/>
+</jnlp>
